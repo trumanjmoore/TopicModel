@@ -1,0 +1,592 @@
+AAHP 650; Nivol; Page 10
+
+
+
+
+
+
+
+Samuel Proctor Oral History Program College of Liberal Arts and Sciences Program Director: Dr. Paul Ortiz
+
+
+
+
+
+
+
+
+241 Pugh Hall
+
+PO Box 115215
+
+Gainesville, FL 32611
+
+(352) 392-7168
+
+https://oral.history.ufl.edu
+
+
+
+
+
+
+
+AAHP 650 Keirten Nivol 4-26-2019 Interviewed by Christine Berry on April 26, 2019
+
+62 minutes | 35 pages
+
+
+
+Abstract: In this interview, Keirten Nivol, a Dominican-Haitian computer science major at the University of Florida, shares his experience as an immigrant and student with Christine Berry of the Samuel Proctor Oral History Program. Nivol remembers his childhood in Santiago, Dominican Republic, noting the overarching sense of community within the city’s diverse demographic. Nivol recounts his family’s fourteen-year struggle to apply for residency to the United States, which began before his birth. Nivol’s family settled in Broward County, Florida where he attended Blanche Ely High School. Nivol later arrived at the University of Florida, where he began taking classes in computer science and public policy. Nivol credits his interest in public policy to his involvement with Dream Defenders, an organization that promotes nonviolent protest and civic engagement to Black, Brown, and immigrant youth. He also remains active in the Black Student Union and National Society of Black Engineers. Nivol reflects on the academic challenges posed in the United States that disproportionately affect Black, Brown, and immigrant students. He notes the lack of diversity at the University of Florida, attributing it to the university’s history of racial discrimination and ineffective affirmative action.
+
+
+
+Keywords: [Dominican Republic, Haiti, immigration, immigrant, student, academics, computer science, public policy, Dream Defenders, Black Student Union, STEM]
+
+
+
+AAHP 650
+
+Interviewee: Keirten Nivol Interviewer: Christine Berry April 26, 2019
+
+	B:	This is Christine Berry from the Samuel Proctor Oral History Program from Pugh Hall, on April 26, 2019. And today I’m speaking with Keirten Nivol.
+
+	N:	Hi. [Laughter]
+
+
+
+	B:	Thank you Keirten for being here today. Could you please state and spell your name, from complete from birth?
+
+	N:	Keirten Rodin Nivol. K-E-I-R-T-E-N, middle name R-O-D-I-N, last name N-I-V-O- L.
+
+	B:	Cool. Okay. So you can just tell me a little bit about yourself, like your age, your birthplace, what year you are here at UF, your major.
+
+	N:	My name’s Keirten Nivol, I was born and raised in Dominican Republic, with a Dominican mother and a Haitian father. Moved to United States about five to six years ago, to South Florida specifically. I am a first-year computer science with a minor in public policy student here at the University of Florida.
+
+	B:	Wow, okay. So can you talk about how you moved from the Dominican Republic here, was there a reason why?
+
+	N:	It was just for better opportunities. I moved here, my parents were originally been supposed to move here since before I was born, but the whole immigration policy and how residency works is a long process, so it took way longer than expected, took about fourteen years for the application to get processed, and for them to come to United States, so by that time I was already born, so I ended up coming with them.
+
+
+
+
+
+	B:	Wow.
+
+
+
+	N:	Yeah.
+
+
+
+	B:	So coming here, what part of South Florida are you from? N:	I am from Broward County, Pompano.
+
+	B:	No way!
+
+
+
+	N:	Yes.
+
+
+
+	B:	I’m from Hollywood, Florida. N:	Oh okay.
+
+	B:	So not too far. What school did you go to? N:	I went to Blanche Ely High School.
+
+	B:	Blanche.
+
+
+
+	N:	Yes.
+
+
+
+	B:	All right. So, we’ll go back to the immigration process after. But can you tell me a little bit about how you got into computer programming and public policy, like what made you want to pursue that?
+
+	N:	Computer programming, the way was because my middle school, I went to Crystal Lake, which was a pre-engineering and robotics magnet program there. So, by taking some of the courses, I started getting interested, because, you know, robots. Robots are cool, I guess. [Laughter] And then from there, when I was choosing high schools to go to, I just followed the same path and went to
+
+
+
+
+
+another pre-engineering school. And through that, I started falling in love with how programming works, and how with a couple lines of code, you could basically create anything. I think so yeah, that’s basically how I got into it.
+
+	B:	Cool. So what about your public policy minor, how’d you get into that one?
+
+
+
+	N:	My public policy, I am part of an organization, so there’s an organization called Dream Defenders. And through being through the organization and seeing how policy affects different communities, I started looking into different options because I didn’t like political science, I was like, “I don’t want to do political science, I’m not really interested in the theory and all those things that have to do with it.” I’m just interested in how policy is implemented and how it affects different marginalized communities from across the board, so that’s how the decision came about. I was like, “Well, public policy sounds like it.” Yeah.
+
+	B:	That’s awesome. And you’re a first year, that’s incredible that you already know everything you wanna do.
+
+	N:	Yeah, something like that. [Laughter.]
+
+
+
+	B:	Do you see yourself going in any other direction? Possibly in the future? Like what do you wanna do with this?
+
+	N:	So originally, I just want to be a software engineer, and just use my public policy minor as just a gateway to just do side things and continue my grassroots organizing, and or just possibly work in policy one day. Yeah.
+
+	B:	Wow. And do you want to stay here in Florida, or go out of state?
+
+
+
+
+
+	N:	I don’t know, wherever I end up. B:	Awesome.
+
+	N:	South or West Coast most likely.
+
+
+
+B:  Yeah. Okay, so talking about a little bit about your childhood, how you grew up, can you tell me any — I know immigration was a big part of that portion, so just tell me a little bit about your childhood if you wanna go through it.
+
+	N:	My childhood was a pretty fun childhood. I was born and raised in DR like I said, in Santiago. Santiago, mainly. So it was just a small community of different types of people. There were Black, mixed, White, Hispanic, and like all of Dominican Republic is a very mixed country and there’s different type of skin colors and things of that sort. So, I grew up somewhere very community-based, where everyone knew each other, and the whole community supported each other. It was like a big family, so it’s not really that my family raised me, it was more like the community raised me, that’s how it basically works in most third world countries and things of that sort. So, I was raised by a community of strong- minded people that were resilient through anything that came towards us, because we weren’t the richest, we weren’t the poorest, we just lived, were able to live and had enough to live and that was basically it, and support each other when one couldn’t afford one thing. Then the other would support and then it would come right back. So yeah, that’s how I was raised, basically.
+
+
+
+
+
+	B:	Wow, okay. Resilience, that’s quite the word to use. My mom is from Peru, so I kinda get the third world country vibe too. Can you talk about a little bit about who raised you, you said the community raised you.
+
+	N:	Yeah. So, I lived with my father, my father and his side of the family most of the time. I went to visit my mother’s side since they live like, literally the community next to us, so it was like a five, ten, minute walk on a daily basis to go visit them. So whenever, for example, if anything would happen to me, and I wasn’t home, I was outside playing with friends, one of the neighbors will definitely even take me to the hospital and then call my dad, and be like, “Oh I’m at the hospital with your son.” [Laughter] And he would be at work, and he’d be like, “Oh okay. Just let me know when everything is done and I’ll come back.” So it was a pretty community- based community. I always found support when needed. Whatever I needed, if one person didn’t have it, another person would figure it out and tell me whatever was basic needs, I wouldn’t get extra things, but basic needs were always met.
+
+	B:	Wow.
+
+
+
+	N:	Yeah.
+
+
+
+	B:	That’s awesome. Okay. So can you tell me your father’s name and your mother’s name?
+
+	N:	My dad’s name is Rodin Nivol, my mother’s name is Nalian Rishol.
+
+
+
+	B:	Cool. And what do they do?
+
+
+
+	N:	My father is a technician. A tech technician in Atlanta. My mother, I don’t know.
+
+
+
+
+
+	B:	Awesome. Because you mentioned your dad’s a tech technician, did that influence you towards technology in general?
+
+	N:	For a period of time, like in elementary school, I used to play around with the parts. It could’ve, but I broke them more than I actually like, did things with it, I just mainly threw them around and stuff like that, so yeah.
+
+	B:	Wow.
+
+
+
+	N:	[Laughter]
+
+
+
+	B:	No that’s a lot of— that’s amazing. Also, do you have any siblings? N:	No, I am the only child.
+
+	B:	You’re the only child! N:	Yes.
+
+	B:	Me too! It’s hard to find us! N:	[Laughter] It really is.
+
+	B:	Okay. So you went to Crystal Lake Middle, you went to Blanche Ely High School, awesome. So what made you choose UF as a college?
+
+	N:	I had applied to many schools, because I wasn’t— my dream school was always to go to UCLA, it was like my top was UCLA. After UCLA, it would’ve been— it was UCLA, or Stanford, and then UF or Georgia Tech. So I got into UCLA, Stanford, I didn’t even make it through the application, it was too many essays [Laughter], so I got lazy, I was like, “Unh-uh, I’ve been applying to too many
+
+
+
+
+
+schools and too many essays in Stanford.” So, it came about, it was more of the financial situation since I was an out-of-state student and I did not receive the region’s scholarship that UCLA offers, like the presidential scholarship, I wasn’t able to afford it, because like seventy thousand dollars for out of state student per year. So it came down to either Georgia Tech, or UF, FSU, or go up North, and I didn’t really wanna go up North, because I feel like it would be too far, and I’ve never been up north in the subway system. To this day, every time I visit up north, I get lost. So I was like, “I guess I’ll stay here and go to UF,” since I did like UF and UF has the similar kind of social life and academic aspect to it, as like UCLA. And when I visit Georgia Tech, I wasn’t really much interested, because I felt like it was too research-based. And when I looked into grassroots organizations around the area, I didn’t fine none, and that was something that I was really looking for, since I’ve been doing it for a while. So it came down to UF.
+
+So that’s why I’m here.
+
+
+
+	B:	Wow. Okay. You mentioned grassroots organizations. So what were you involved in then, earlier before college?
+
+	N:	In high school, I was first part of the regular organizations: student government, debate, and things that— and through like the mixture of debate and student government, I ended up being part of the Rally to Tally Committee at Broward County, so we go to Tallahassee and advocate and legislate every year to the legislators, and talk about different issues that Broward County faces, and how we want to – either it was we wanted to gain support from our legislators, or we needed more funding for different areas, or we want to push this type of thing for
+
+
+
+
+
+our communities. And through that, I became part of the student legislative action committee at Broward County, and after the March for Our Lives—I ended up being part of the March for Our Lives organization. And I was reached out by the Dream Defenders, which was an organization that was founded here at UF and FSU. And I’ve been a Dream Defender since then. [Laughter]
+
+	B:	Wow. Okay. So that leads perfectly into what I was going to go next to. But what extracurriculars and organizations are you involved in here at UF?
+
+	N:	So I am part of the Black Student Union, I am part of the Leadership Development Cabinet, which is basically a first year leadership institute type of organization, similar to FLC, just under the Black Student Union. I am also part of student government. I am the freshman representative for the freshman class.
+
+And I am also a Dream Defender. I am currently the squad lead, which basically equates I guess to president for the Gainesville chapter of Dream Defenders.
+
+And the National Society of Black Engineers, and that will be it, yeah. [Laughter]
+
+
+
+	B:	That’s it. That’s a lot, I’m not gonna lie. Wow. [Laughter] Okay. Which goes perfectly. So how did you get involved in each one of them and how did you find them on campus?
+
+	N:	So, I got into Dream Defenders because I was already part of it in South Florida. And it was just a segue, it was like, if I already started in high school, I might as well continue and through that, through my mentors, because a lot of the people that I did work with in Dream Defenders from South Florida, are main— a lot of them were graduates from UF and FSU graduates and FAMU graduates. So,
+
+
+
+
+
+through speaking to them, they told me about different organizations, different things to do at UF, and basically the lifestyle. So, when I came here, I pretty much knew what organizations I wanted to join. So I started with the Black Student Union, and then I heard about the Leadership Development Cabinet, and I submitted an application, and luckily got accepted. So that’s how I joined that.
+
+Student government is just, I was walking around I think. I was walking around, I think it was at an activities fair, yeah, an activity fair, and then Ian, our current student body president, just talked to me about student government. He was like, “Oh! If you want to be part of it, stop by my office and I can show you the different applications and different subcommittees.” And then I talked to him and other people, and then I found out about the class council subcommittee, sub-portion of the student government, and I ended up submitting the application, I became the class president. NESB, it was just a normal thing. Oh, I’m an engineer major, there’re engineer profession organizations. Okay, I guess I’m gonna join a professional organization. Yeah.
+
+	B:	Wow, okay. So yeah, student government you mentioned. So what party are you involved in?
+
+	N:	Oh, not party based.
+
+
+
+	B:	You’re not party based? N:	Non-affiliated. I love that. B:	Congratulations, yeah.
+
+	N:	Love that! [Laughter]
+
+
+
+
+
+	B:	That’s an accomplishment in itself, honestly. Okay awesome. So you mentioned Ian Green, and Ian Green is currently the UF president. Which ones were you considering within student government other than the one that you’re involved in right now?
+
+	N:	First I was like, “Any cabinet, or any position that does not require for me to be party-affiliated.” That was number one. And from then, after reading through all of them, I was like, “Okay. The ones that interest me the most were the diversity and inclusion cabinet—" I think that was the name. They have a leadership development cabinet as well, and there is community involvement cabinet. So those was like, my top. And then class council applications came out and I was like, “Oh, I guess I’ll be class council since it’s class related, you know. I’ll start there and just work with things related to my freshman class, since that’s what I’m part of, so I’ll be more knowledgeable and more useful in that aspect.” So yeah, that’s how I came about.
+
+	B:	Wow. Can you talk a little bit about why you didn’t want party affiliation?
+
+
+
+	N:	First, I didn’t want party affiliation because I honestly did not understand why we had two parties and how this worked. And as someone as part of a grassroot organization, I felt like the party system becomes really biased and people’s views are not really about who we serve or a constituency, it becomes more about what the party stands for, and that’s what I stand for instead of what I stand for, and that’s what the party should embody. So I was like, “I’m not sure any of these two parties. I’ve never been here, it’s my first time, so I’m not gonna join any.” And just do something that’s not party-affiliated, and then as I see the
+
+
+
+
+
+different parties and how they work, and then I’ll figure it out. And I’m still not party affiliated because I feel like none of them are interesting to me or I feel like none of them are really doing the work that I feel like should be done per se, and then when I was looking through the history, all the different parties we’ve had, like yes, last year we had three parties campaigning going for president, and I’m just like, “Oh okay, so this is a really politically based school.” And it really resembles United States politics.
+
+B:   So, can you talk a little bit about the culture within student government? Not only as a freshman, as a new member, just being part of student government but also as a minority student.
+
+	N:	So to my scale, the culture in student government, to — and the minor scale of just the freshman class— our council, it’s not bad as the whole entire student government. It’s a pretty cool environment with people that we just talk about what we want to do, what we want to accomplish, what do we feel like our class would like to have, what type of events, what type of sessions or what type of things we want to host that our event will most likely want to, or what type of things we should talk about to the student body executive board that oh, will be great for the freshman class. So on that scale, since we’re just freshmen and most of us are just pretty cool people [Laughter], and we’re just now getting to the segue things. It’s a pretty cool environment where just regular people just talk to each other and we basically make decisions by speaking to each other and just try to figure out like, “Why did this person choose this thing?” And “Why did I choose this thing?” And just getting a common ground. However, at the bigger
+
+
+
+
+
+scale, student government is a bit different, it’s more of a “What my party stands for,” or “What the leader in my party said, that’s what goes.” Or like, “What will benefit my own personal views?” And when it comes to personal views, it’s not like, “Oh what I think is right, or what I think is correct,” not like really ethics, it’s more of a “Oh, my Greek organization views” or “What Florida Blue Key thinks—” and things of that sort, so that’s how most things work in student body.
+
+Everything is controlled is through like, the Greek community and yeah.
+
+
+
+	B:	[Laughter] There’s that, yeah. So what do you do within your cabinet, like what is your role?
+
+	N:	So, basically I represent the freshman class, and me and my cabinet, we just basically host events for the freshman class and just try to make a lasting memory of your freshman year, so most students can remember like, “Oh my freshman year I was able to partake in this, I went to this,” and just make the experience better, since you know, UF is not really that of an inclusive place or you might feel left out most of your freshman year because there’s not much leadership opportunity. And UF is a social organization or leadership-based institution, like if you’re not a leader at something, it’s like you’re nothing here at UF. I’ve sensed that type of aspect of very involvement culture —heavy involvement culture, and as a freshman there’s not much options. So you might feel like you’re left out, so we try to host events and just try to make the freshman community feel like, “Okay we go here, and we’re heard of.” So yeah.
+
+
+
+
+
+	B:	Wow. Okay. Can you talk about inclusion? You said UF is not a very inclusive environment, and that it is very involvement based. So can you elaborate on that please?
+
+	N:	So one thing that I’ve sensed about UF, it’s like everyone — I’m not sure if everyone wants to be involved, where everyone wants to be a leader and everyone has this list of things that they wanna do as they— being a UF student. Like I wanna be in student government, be a campus diplomat, a Cicerones, all these big organizations then ultimately apply to be a Reitz scholar. Be part of the Hall of Fame, Florida Blue Key, or something— there’s like, I guess there’s a list of hierarchy in the university, and everyone wants to be part of this, of these things and just hit those points. I don’t know what it is about— but it’s like a very involvement-based culture and everyone feels forced, and it’s like a peer pressure type of thing. Like if I’m not doing anything and all my friends are, or like I’m part of the Greek community, and it’s known that every Greek organization wants to be the best. So they’re of course going to push their members to go for any leadership position open in things, so they can like— whoever hits more ground basically has the power. That’s like the mindset.
+
+	B:	Okay. Okay, we’ll go towards BSU now. You mentioned that you’re in Black Student Union, and you had already decided to be a part of it in high school. Can you talk about that please?
+
+	N:	So yeah, I’m part of Black Student Union. It was like a common sense thing to me. I’m coming to a PWI institution, I should join the Black Student Union and be part of it, just to find Black people within the school, since there are many of us
+
+
+
+
+
+so that was like a segue for me to find Black people and find people that I could relate to. So yeah, that’s how I ended up joining the Black Student Union.
+
+	B:	Okay, and you mentioned that you’re in the Leadership Development Cabinet. N:	Yes.
+
+	B:	Can you talk to me about what that does exactly?
+
+
+
+	N:	So it’s basically a one year freshman program for freshmen to be able to develop their leadership, learn about the different organizations, and different leadership position, and how leadership changes from a high school scale to a college scale. That’s on a way bigger scale, and there’s more responsibilities, and being able to juggle leadership with coursework and not to let the involvement culture really pressure you into doing much. Like to understand that first we came her for a degree, and there’s not a major that says involvement. [Laughter] There’s no involvement degree, so you can’t be involved in everything, anything that’s open. So yeah. And professionalism, since basically first year, it’s similar to FLC. I don’t remember. Freshman leadership council, yeah. It’s basically very similar to it, just on a minority scale, and it’s like the curriculum is for minorities to — it’s like on a minorities perspective, on a Black student perspective, because it’s not the same experience for White students for Black students, so it’s mostly based on the Black experience here at the University of Florida.
+
+	B:	Okay, and you mentioned and it’s known that UF is predominantly a White school. And there aren’t many African Americans on campus. Can you talk a little bit about that, and then also about — you talked about the Black perspective and
+
+
+
+
+
+getting different things, how it’s not the same for a White student who goes here compared to a Black student.
+
+	N:	Yeah. So yeah. UF is a PWI, and it’s one of the worst— could be put in a pool of one of the worst PWIs, there’s six percent Black students here at the University of Florida, and if we’re being honest, out of the six percent, a good three to four percent are athletes. So, if we’re being honest, there’s two to three percent Black students that are non-athletes here at the University of Florida, and it’s getting less and less. My year there were eight percent accepted out of the acceptance pool, there were eight percent of Black students accepted. This year there were four percent accepted. So half. And then if you talk about it, the half that got accepted, many of them are not gonna probably gonna come here because they’re aware of all the racist acts that happen and how the culture is not so welcoming for Black students compared to other institutions around the country for Black students. So yeah, it’s pretty tough, walking around and not getting representation, whether it is from the student body, or from faculty. The math department— I was reading it, and there’s only one Black professor— full time professor. There’s only one Black lady, and herself she feels lonely, because she barely sees Black students in her classes, so I even tried to walk into her office and just go talk to her and be like, “Oh, we exist. We’re out here.” So yeah, it’s a very like— I don’t know if people— I feel like others don’t realize it because they don’t have that issue that they don’t understand that representation matters because you’ve never faced— the majority community doesn’t really face the issue of not seeing representation, so they’re unaware how that can affect you
+
+
+
+
+
+throughout your four years. Like not seeing someone being your teacher or not getting seeing people around campus that look like you, that think like you, and have the same perspective as you, hurts because at times you wanna do things and you’re looking for guidance, and at times the guidance that you will get from someone that has the same perspective of you, that comes from the same background as you, will be more helpful than the guidance of just regular person that might be from a different community, so the perspective might not be the same, and they’re probably unaware of all the oppression or all the different things that might oppose you, while going through the same route. Because if we’re being honest, the same route that a White student might take to go to a leadership position here at the University of Florida to reach something here, is way different than what a Black student might have to do to reach those positions or reach those goals. So yeah, that’s how basically it segues into it.
+
+	B:	You hit every point on the bingo board, so thank you Keirten, I was gonna — so we’ll start with the percentages because a lot of students don’t know the percentages of racial and ethnic students here on campus. But you talked about this dropping rate of African American students enrolling. What do you think the reason is specifically?
+
+	N:	I think the reason is first, I’m not sure— the school really first doesn’t really reach out to Black students or minority students, because I feel like a lot of minority students first probably won’t apply. That’s the first thing. Probably won’t apply to University of Florida because already in their mind it’s like, “I don’t want to go to this school because I’ve heard many racist things about it. I’ve heard many things
+
+
+
+
+
+that happen institution, how inclusive it’s not on social media or the news. For example, just last year, at graduation, the students that were pushed out because of what they were doing. That’s part of the Greek community, it’s part of our culture, it’s part of our Black culture. Like they didn’t even take more than five seconds on the stage, and they were already getting dragged out by a faculty member and the student body — and our president was right there. Fuchs was right there sitting, didn’t say anything about it, or do anything about it. So, what does that show to other students that possibly could’ve wanted to go to UF? But they’re like, “Oh that’s what happens at that university, I guess I’ll go somewhere else.” Me myself, UF was not my top choice. UCLA was my top choice. UCLA is pretty similar, but to me was better and way more diverse than here at UF, and it was more acceptable to me. So imagine other students that might want to go, that definitely like, “I don’t want to go here.” And there’s more other schools like our rival, FSU is a bit more appealing to the Black community and Black students because they have way more spaces for Black students. There’s more programs, FSU reaches out — like FSU used to go to my high school at every other two months, every other like— there was always someone from FSU here talking to us and telling us about the different opportunities, how the school is, the different programs, how inclusive the school is through the different safe spaces that at the university, unlike here. The only safe space we had was destroyed and almost taken away from us. We had to fight to get it back, and right now it’s being built, which hopefully will be here by fall. So I think it’s all those things, and first people don’t want to apply. Then the few that apply possibly don’t get accepted
+
+
+
+
+
+because of inequitable opportunities, because the student who comes from a minority community, if we’re speaking in reality, they might not have the single sources to — they possible could have good grades, they possibly could get all those things, but what about the test scores? They don’t have the same resources to gain the high test scores that other students might get. For example, other students from other communities are able to afford tutors. Their schools are probably way better at teaching them, preparing them for this exam, and have way more resources than at a minority school because that minority school, the community that it’s around, surrounded by, probably they don’t get much funding for all those things, because the school’s funding is depending on the amount of the real estate around the community. So if it’s a minority-based, poor community, the school of course does not have resources as another wealthy community, for example, might have the resources to be able to get the best teachers around, the best types of tutors, and the students are able — their parents are able to pay for tutoring, because SAT tutoring is expensive. It’s not cheap at all [laughter.] One, two, three, sessions on — I forgot the website— Kaplan—
+
+	B:	Kaplan?
+
+
+
+	N:	Kaplan? Kaplan is like four, five hundred dollars for two, three sessions, and just thinking one session’s probably not gonna be enough for you to pass that exam, so minority students of color don’t really have the resources to get those high test scores. And then other than test scores, there’s the issue of the course rigor of courses. Our schools might not have the— might not have all those AP courses,
+
+
+
+
+
+AICE, IB, all those type of things that other schools might have. We probably don’t have them, so when you’re looking at those students, a Black student and another student that comes from a wealthy place, their applications do not compare because of the different resources that they gained or opportunities that they got. So the application does not really look at it that way, how they even get accepted. So the few that do get accepted, after the few that get accepted then we have to look at will those that got accepted now choose UF over the other schools that are probably more appealing to the minority community, or to the Black community specifically after seeing hearing all the things in the news, speaking to students? Because if a student asked me, I will be honest with them and tell them UF is a great school, top ten public university. However, there’s a lot of backlash. For a Black student, it’s not the best place for it to be, however you should still — I would still encourage them to come, but I will not give them a fake story about what UF is, I will tell them that UF— yes, this type of incidents do happen at UF. So those that apply then that cuts half, then half of those ones that get accepted don’t want to come. Or seventy-five percent of them. Because this year from my school, my high school, I reached out and there’s about twenty- five to thirty of them that get accepted, and out of those twenty-five only like two are coming here. Only two of them want to come here, because a lot of them were like, “Um, FSU seems more better” and since FSU has that inclusivity and diverse aspect to it, others are like, “UCF sounds better” because UCF again, UCF is a very diverse school that cares about their students and has many other outreach programs and things like that that our university doesn’t. So yeah, that’s
+
+
+
+
+
+really why— that’s where the issue comes and if the university doesn’t try to do anything about it, it’ll decrease and all the Black students will potentially be athletes soon.
+
+	B:	Yeah. You mentioned how UF doesn’t consider— because UF actually doesn’t consider affirmative action anymore in their acceptance policies. So how do you think UF should incorporate considering in those factors of acceptance and equality opportunities and things like that?
+
+	N:	First, I think some research should be done based on it, and see how inequality in educational system— the public education system happens in different communities, different schools, and different counties around the state. And then after doing that, make it racially-based. Let’s be honest, not all races have the same opportunities, not all social classes have the same opportunities, so have it racially and class-based. So and then see through that research what you gain from it. How do you find the solution, should it be done by — should applications be looked at it by the top students from that school? Top students from that community? Or top students from that district, that county, however that it looks best to the application. Like if they all fall on the same pool, for example, if all the schools have similar curriculum and they offer the same courses and offer same courses and have like the same average grade, average test scores, then I guess put all those students in that same pool, application pool, and look at them from that base, like are they — I don’t know, good enough for UF— I don’t know, however UF chooses those things, like put them all in the pool because they all come from similar institutions that have the same curriculum, the same average
+
+
+
+
+
+test scores in all those schools. So that will make it more fair, because okay you’re putting me in the pool of someone else that’s basically coming from the similar community as me, it might not be the same race as me, but at least they come from a school that has the same resources, so I’m not being compared to a student that probably went to a private institution that has some money or a student that came from a public institution. Like, if a student from Blanche Ely High School is compared to a student that went for example, Cypress Bay in Broward County, Pembroke Pines Charter, that’s — you can’t compare them both. They come from different sides of Broward County, different institutions that half different resources. So that’s how applications I believe they should look at it. First research and see how should it do it and what’s the best segue to it.
+
+	B:	And that’s a great idea, actually. You also mentioned, not directly, but I can tell that you’re talking about IBC, which if you can talk a little bit about, since they are currently working on the house for that. Where is the Black community right now, if they’re not being housed at IBC?
+
+	N:	The Black community right now, they’re not really housed, but that’s basically where it is. In the MCDA, which is the multicultural diversity affairs center, in the Reitz Union, the second floor, which it’s a bit— it’s small, it’s like a room, literally probably the twice the size as this, and not everyone fits and the few people that do fit are mainly there from like, for a couple minutes or half an hour and then go to class. And people don’t really spend the day there because it does not feel the same as it probably felt when the IBC was here, and we had a whole house and a safe space where we could host our own events and we didn’t really have all
+
+
+
+
+
+this backlash for anything we wanted to do, and we weren’t controlled by the university, because it was like off-campus, it was across the street of campus, so it was better, in a better location. And just the whole idea where it’s in. It’s in the MCDA. We have La Casita, which is the Hispanic one. We have the BEC, which is the Black Enrichment Center. Then we have the APIA, which is the Asian Pacific Islander one. And then we have the LGBT one. It’s in Reitz. Our president Reitz did not spend for any of those things. Reitz did not spend— did not care about minority students, specifically Black students, he did not care. He was definitely against LGBTQ community. So how would you have all this safe spaces per se, inside of a building that’s named after a man that really did not care or hated all the separate communities? Like how could you do that? How does that make it a safe space? And then from a big space, you send them to a smaller space. Then possibly one day they’ll be like, “Oh, we’ll change you from here to another place,” to make it a classroom. And from a classroom they might make it into a closet. And then we’ll disappear? Like how do we go from a house to this? And just the whole reason why the IBC was built. It’s an Institute of Black Culture. An Institute is basically somewhere where research is done, where students are learning about their culture. They’re learning about what their background is come — came from, what they are today, what can be done, what else it’s need to be, but the Black Enrichment Center? That’s not what it is. It’s not an institute where research can be done. It’s just a room where people just really go there and hangout for a couple minutes, and then go to class.
+
+
+
+
+
+	B:	Yeah. So talking about the backlash from the university, can you talk a little bit about that?
+
+	N:	Backlash—what exactly per se when you say backlash?
+
+
+
+	B:	You mentioned that you felt — or the Black community within the Reitz— felt a little bit of a push from the university, being so close to it? Or being controlled by the university?
+
+	N:	Yeah, the backlash is mainly like for example, when IBC was being destroyed, the plan wasn’t for there to be built another IBC or an alternative to it. The plan was for it to either there won’t be nothing, there will be no safe spaces on campus, or we will be sent. Be put in Reitz in a smaller place. So the backlash is mainly how the university literally — no communication or anything — just chose
+
+— was like, “Okay. We’re gonna destroy this house and you guys are getting no alternatives.” We knew the IBC was not in good measures, like the building was old, and we understood that. Okay, if you’re destroying it, you’re giving us something else, or you’re rebuilding it. That wasn’t the main idea. The only reason why it’s being rebuilt is because students fought for this. There were many town halls, there were many hearings, there were many things that happened for them to choose, say, “Okay, we’re going to rebuild it.” And at first they were like, “We’ll rebuild it but we have no funds so where is this money coming from?” And after a whole school year of fighting for it, out of nowhere, “Oh, we have money now. We can build it for you. And we have way more money than you asked for.” [Laughter] So these are the types of things that happen in the university. Like, there’s never money for anything that has to do
+
+
+
+
+
+with minority communities. Anything that we need or want, there’s never enough funds for it. “Oh, we don’t have enough money.” So, things of that sort. And then we get to the MCDA and it’s this fancy place where they try to showcase that we care about students and it’s like diversity and et cetera. And I guess—if you think about it, the only reason you can see it in the Reitz Union is because when people come visit the University of Florida, they will probably go to the Reitz Union. And here in—Oh, when a Florida Cicerone or any person who’s giving a campus tour says, “Oh, we have the Multicultural and Diversity Affairs upstairs—”
+
+	B:	Right here in the Reitz Union.
+
+
+
+	N:	Everyone will hear, “Oh, okay, this school is diverse.” No, it’s not. That’s a lie.
+
+
+
+You’re selling a fake story to someone.
+
+
+
+	B:	Yeah, as a token. Right. So, you talked about the Institute of Black Culture being an institute where students can learn about their culture. So, as a freshman and you haven’t really gotten to experience the IBC yet, what do you want to see out of it?
+
+	N:	So, out of the IBC, what I want to see out of it is a safe space where students are able to talk about what is being a Black student at the University of Florida? What is being a Black student at a PWI? What’s our history here at the University of Florida and how has it changed? And who made the changes? And bring speakers that were probably part of the past classes of people that probably went to PWI’s. We feel empowered to create more change at the university because it’s still not perfect. I understand that progress has been made, but if you think
+
+
+
+
+
+about it, progress is just we’re getting basic needs. When other people try to compare that, “Oh, but the university is getting better at least.” Like how is it getting better? Just because we’re now getting accepted into the University of Florida? Because at first, Black students were not able to attend here. I understand that with us. You can’t really say that’s progress when that’s a basic thing that should have been happened, that shouldn’t be something students are begging for, to get into the university just like another person. So, yeah, just a safe space for students to learn through research, host our own bands, host our whatever event. I know the MCDA at times, if they wanted to take a Black person that could be deemed radical by the institution, they probably can’t. Since it’s in the Reitz building, it has to be approved by anyone that’s over the Reitz Programming Board. Food, you can’t bring food to the Reitz unless it’s from Classic Fare. Any event that’s hosted in the Reitz, the food has to come from Classic Fare. First, if we’re being honest, the food isn’t good and Black culture, they don’t sell nothing that’s cultural for any community that—like the APIA, the Hispanic community, the Black community. There’s no menu for us that we might want if we’re having a culture event. Why would we be bringing that food? If we want something cultural that means something to us, that’s not something we’re able to do. What if you bring somebody that the university deems radical or deems not a good representation for the university just because they don’t have the same views. But oh, they share our same views. They’re Black, just like us.
+
+We’re not able to do those things there.
+
+
+
+
+
+	B:	I almost got into this earlier, but I forgot to. What do you identify as in terms of ethnicity and race? Because you did mention your mom is Dominican Republic and your father is Haitian.
+
+	N:	So, my race is Black. Ethnicity, I am Latino. In-between lines, yeah. B:	So, you mentioned a lot about the BSU.
+
+	N:	Yes.
+
+
+
+	B:	Do you have any association also with the La Casita portion of it?
+
+
+
+	N:	First, the two houses—by the time I got here, the two houses were already non- existent by the time I got here, because I just came in fall. So, they just started getting built around that time. I don’t know much, all I know is from my mentors and from the history, because I have a—I’d say a Latinx history under the SPOPH program and I’m part of it, so that’s all I know is through this part of the segues that I’m learning from. So, I don’t know much about La Casita. I’m part of the BSU and I’m part because I did attempt to go to meetings like once or twice and I just didn’t feel—it didn’t feel welcoming or it didn’t feel like I was part of the community, because there is the sense of identity crisis and sense of not feeling accepted by different communities when there’s in succession or you’re a mixed person. So, for me, I’m Dominican and I’m Haitian, so Black and Latin, so I’m an Afro-Latino per se. It’s not—sometimes I might not feel like I relate to some Black person, sometimes I might not feel like I relate to a Latino person. So, I have a different experience from them. My space might not fully feel like theirs and their space might not feel fully like this person. So, when I did try to go to like the HSA
+
+
+
+
+
+or La Solita—I went once. And it just did not feel as welcoming, not only because I at times feel like I’m not part of the community, but just people in general.
+
+Because I have spoken to other Latinos outside of that community that don’t really go to those spaces or go to the meetings, they’re not part of the organizations and say that they as well, feel like it. So I’m guessing it’s a community problem. I don’t know that much.
+
+	B:	That’s fine too. So, you mentioned not feeling comfortable. Is it the way people perceive things or is it the way they react to a specific person they want in HSA?
+
+	N:	I don’t know if it’s any of those things, it’s just that I walked in and the atmosphere, for me, just wasn’t it. You know when you walk into a room and you feel like, “Okay, I want to stay here.” Or, “I don’t want to stay here.” It either feels awkward or it doesn’t. So, I walked in my first time or first couple times and I was just there and everyone was like—the meeting was just going on and everyone was just listening to the meeting. And then at the end of the meeting, I’m just like, “Okay, I don’t know anyone from here. It just feels awkward.” So I just stopped going.
+
+	B:	So, now that we’ve kind of discussed a little bit about intersectionality, because that’s really what this project is about, have you ever faced any discrimination because of your multiracial or ethnicity growing up here or at UF exactly?
+
+	N:	The only thing I’ve faced mostly is more of a—being like I have to prove. People making it seem like I have to prove that I am multiracial or have more than one ethnicity. So, that’s the only thing I’ve faced. Like people saying, “Oh, speak
+
+
+
+
+
+Spanish.” And I’m just like, “Okay.” You speak it and then they’re like, “Oh, okay. Where are your parents from? Were you really born in DR?” Do you want me to bring my birth certificate? Why do I have to prove to you that I’m really from two different ethnicities? I think the first issue is that people don’t understand the difference between race and ethnicity. Your race does not mean that that’s your ethnicity. It’s not the same thing. I am Black, because race is more of what you see in my origin. Because I’m dark-skinned, okay, I am Black. My ethnicity is where I was raised, my culture. So, I am Latino and I am Haitian. I don’t know what the categories follow, but I’m Haitian and that’s my ethnicity. And my nationality. They’re not the same thing. So first I think people don’t understand the difference between race and—they usually take both as the same thing and think they’re synonyms but they’re really not. Then having to ask people to prove their identities and try to prove where you’re from and what you are and what your culture is. That’s mostly what I’ve gotten from many people, that’s the only thing. Yeah.
+
+	B:	And could you say what group you usually get that from? Is it from students on campus? Is it within cultural unions? Is it from professors?
+
+	N:	It’s mainly from anyone, even in cultural unions that tends to happen. Like in the Black Student Union, for example, if I’m in the Black community no one will really ask, they’ll just know, “Okay he’s Black.” It’s just another Black person. So, I don’t really feel as much because no one will come and ask me. But if I’m in the Hispanic community, someone will ask me—Like one time someone asked me, “Why are you here?” And I’m just like, “Why are you asking me this?” And I told
+
+
+
+
+
+them that I’m Dominican and I am part of this community, or I feel like I’m part of the community. And they’re like, “Oh, so do you speak Spanish?” And I’m just like, “Okay, I’ll speak with you until you leave me alone.” So, yeah, just feeling that sense of, “Oh, you have to prove this to them.” Just feeling that.
+
+	B:	Yeah. And then the next question is, in what way has your experience at UF been impacted by how you identify or how others identify you?
+
+	N:	So, I feel like my experience has mainly been similar to a Black student, since people don’t really know that I am both Latino and Black. So, it’s been just like the similar experience of a Black person. Similar to a Hispanic person being White-passing and no one knowing that they’re Hispanic and just having all the privileges of a White person because no one is aware and everyone just looks at their skin and thinks, “Oh, okay they’re White.” Without asking. So it’s the same thing for me, I’m Black. I’m just Black. If I walk into a space, someone will look at me and either get up and walk away. If I’m sitting in a chair, someone might just be like, “He’s really close to me.” They get up and sit in the next chair just to have a gap. Sometimes going to the office and asking for things and wanting to speak to a person, like, okay I’ve been calling this office for the longest, I need to get my life together. I’ve been calling to get a certain paperwork and when you show up to the office like, “Oh, this person isn’t here.” And I’m like, “Wait, this is not their office hours?” This person is supposed to be here and at times you can even hear the person is inside the office but the secretary or anyone will tell you they’re not here. Professors not really caring about anything, you’re just another student to them. Or just being in class and people saying things. A lot of ignorant
+
+
+
+
+
+things are said in classes, mostly if you take politically inclined courses, people say things and it’s like, “I’m here, at least try to be respectful or try to care about other people.” Like, my history or whatever has happened, you can’t just go up there and say whatever you want without thinking about, “Oh, this person might be part of that community or that might’ve happened to them or someone they know.” So, that’s mainly what happens. Even in student government, people not—At times, they won’t even think I’m in student government just because of my skin color. Like, I walk into the office at times and people stare. And I’m just like, “Why are you staring at me? I’m part of—I’m here.” So yeah, that’s mainly it.
+
+B:  And you mentioned taking political classes, and since you are a public policy minor, you probably do see it more often. Do you see it specifically in certain courses or is it just in general?
+
+	N:	It could be in general but it changes from course to course. For example, right now I’m taking Controversy and Public Policy, so we look at current issues that Congress is talking about and we have our own discussions into the policy analysis and see the political feasibility, if it’s technically able to be done, resources, if it gets to that point. Economic standpoint, culture standpoint. Like, all those different things. And sometimes things are said and you’re just like, “Okay, I guess that’s how you think.” For example, one time I was in the class and we were going through the immigration policy and one student got up and said—while we’re having a discussion about what’s the issue in immigration and what should be done about immigration is this wall that Trump has been proposing gonna solve the issue or is that even something that’s necessary?
+
+
+
+
+
+What’s the meaning behind having a wall and separating two countries or two cultures that heavily? Is that hatred? Is that a security measure? And one student got up and he said that he thinks immigration is unconstitutional. And I just looked at him and was like, “How is that unconstitutional?” I didn’t say anything, because I was like, “Okay, I am the only Black kid in this class.” There was about forty of us, I am the only Black kid, and the other two Black girls that are in the class are not here today. So, if I do get up and say something, every other person is gonna have an opinion and I’m going to be the only person speaking.
+
+And no one says anything, and everyone starts nodding, so I’m guessing you are all agreeing with this? And the professor is just there standing, “Wow, this person really just said that.” So, I finally get up and say something and I’m just like, “It cannot be unconstitutional because let’s think about it, your parents, your great grandmother, your grandmother, she migrated from somewhere. She’s not from this land. This land was taken away from others.” And he said, “Yeah, but after the Constitution was made it’s now our land.” And migrating here and just creating it and him being born here makes it their land? And I’m just like, “That’s still doesn’t make it right for you to say that immigration is unconstitutional.” Like, first there’s nowhere in the Constitution that says no one can immigrate.
+
+Nowhere in the Constitution, unless it’s in small print. Because I’ve never heard of this. So, yeah, a lot of things like that are said. One time, we were talking about education, someone was like, “Oh, there’s nothing that can be done about education. Education is good how it is.” And I’m just like, “No it’s not there’s no much inequality in the education system and how it changes from place to place,
+
+
+
+
+
+from city to city. And that’s not okay.” The education in this city right here should not be different from the city right next door. Why should it be? He’s like, “Oh, the person should move. If you live in a community that the education is that bad you should just move out.” Who has funds? Like you can’t just get up, “Oh, the education sucks at this school. I’m going to take all my belongings, my house, and sell it and go live in the next community.” That’s not how it works. So, a lot of things are said and you just see people’s privilege. “Okay, you’ve never went through this type of situation in your life.” You’ve never experienced it, so you’re definitely going to be like, “It’s that simple, you can just move if it happens. Just move or if you don’t like how the country operates, just leave.” I’m just like— those things are said on a daily basis in classes and it’s just—Why? How do you think like this? What gives you the reasoning to think this way? And it’s not even thinking straight. Saying it out loud when you know people from that community or that face those issues are in the room with you.
+
+	B:	You mentioned about how sometimes it is hard to speak up on subjects or to stand up for a minority that you do represent, and you might even feel like a token in that sense. Like you said with the other students, Black girls in your class—
+
+	N:	Yeah.
+
+
+
+	B:	Does that happen often?
+
+
+
+	N:	Yeah, it happens very often and I speak to other students about it. Like sometimes we just talk and someone says, “Let me tell you what happened in my
+
+
+
+
+
+class.” What someone said. And then they tell you, “I wasn’t able to say anything because I was alone in the class.” Or “The other two minorities that were in the class or the other couple minorities you look at them and they’re acting like nothing’s going on, whether it is because they’re scared as well and they don’t know what to say or whether they have the same viewpoint. Because there are the Black students at the University of Florida that are privileged or have the same origins as a White student because they came from the same community, or they never faced the issues that we face, or just because they want to be accepted by the White community. So, you just act like everything’s okay and whatever they believe, that’s right. Like White is right. And I’m just like, “Okay.” And I think it happens very often. It happens to all communities. I have Muslim friends, I have—like the LGBTQ community, that happens. Sometimes things are said and you aren’t able to say anything because you’re scared of the backlash. Just because you’re alone. Like you’re probably not scared that somebody is going to get up and punch you, that’s very unlikely. But just that after you saying something thirty other people say something back and you’re like, “Okay, how do I respond to all these thirty people?” Or just feeling tension in the classroom. Like you don’t want to be in a place of learning and feel tension, then that makes you awkward, it might make you scared and you never come to class again and you end up failing the class or end up dropping the class. So, yeah.
+
+B:  It happens a lot. You mentioned it earlier about not seeing students on campus that look like you, also the professors, so do you feel that the student-professor population does reflect the students here on campus?
+
+
+
+
+
+	N:	I feel like it doesn’t. I don’t think the professor-to-student or faculty-to-student population ratio does not reflect students at all. I don’t know how many professors there are or faculty in general, but I feel like I can count the amount of Black faculty with my two hands, and that is sad. And if there is more than that it’s probably people from the graduate level that I would probably never see, but you can really count all the Black faculty with your hands, and it’s sad that you can do that.
+
+	B:	In your first year here, have you had any Black faculty or Latinx?
+
+
+
+	N:	I don’t even think I’ve had a Latinx yet. Yeah, I haven’t had Latinx as of yet or Black. As of yet, I haven’t had a professor who is Black. The only people that I know are people from like the MCDA directors or a part of the different organizations, like the advisors to organizations. Those are the only people I know. Yeah. I’ve never had like an actual professor.
+
+	B:	Okay.
+
+
+
+	N:	TA, I had a TA. Yeah.
+
+
+
+	B:	Can I ask for what class that was for? N:	The TA was for Calculus.
+
+	B:	You also mentioned earlier that there was a professor in the math department— N:	Yeah, mathematics department—
+
+	B:	And she’s the only one there?
+
+
+
+	N:	Yeah, she’s the only Black full-time faculty I think there.
+
+
+
+
+
+B:  Do you think there’s—is that specifically for STEM programs that there are less Black professors or students in your classes on that side or do you think it’s just an overall problem?
+
+	N:	I think it’s an overall problem. Of course, you might get a few more Black professors when you go on the African Studies Department side of African Studies Program, because it’s not a department as of yet. So, if you go there you might see a bit more Black professors, but it’s a widespread problem. I can say in the STEM perspective, it’s way worse because I think engineering, we only have one Black faculty. And I don’t even think he teaches anymore. I don’t think he has any courses anymore, he’s just a faculty member. And probably does graduate courses, but undergraduate, I don’t think he teaches. But he’s the advisor to National Black Student Society of Engineers.
+
+	B:	Wow.
+
+
+
+	N:	Yeah, I don’t think he even teaches. B:	So, I think that’s it.
+
+	N:	Oof!
+
+
+
+	B:	We’ve covered a lot, thank you so much for it. Is there anything else you would like to add to the interview that you think would be important?
+
+	N:	No, I don’t. I don’t think I have anything. [Laughter]
+
+
+
+	B:	Perfect. Well, thank you so much for coming in to interview. Transcribed by: Abby Lovett, October 6, 2021
+
+
+
+
+
+Audit-Edited by: Sandra Romero, October 7, 2021 Final-Edited by: Sandra Romero, October 11, 2021
