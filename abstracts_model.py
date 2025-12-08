@@ -77,21 +77,17 @@ candidate_seed_topics = [
 
 
 # load all the interview transcripts
-i = 0
 docs = []
 with open("abstracts", 'r', encoding='utf-8') as file:
     texts = file.read()
     sentences = sent_tokenize(texts)
     for sentence in sentences:
-        if i > 20000:
-            break
         docs.append(sentence)
-        i += 1
 print(len(docs))
 
-umap_model = UMAP(n_components=2, metric='cosine', random_state=42)
+umap_model = UMAP(n_components=5, metric='cosine', random_state=42)
 
-hdbscan_model = HDBSCAN(min_cluster_size=5,  min_samples=5, metric='euclidean', cluster_selection_method='eom', prediction_data=True)
+hdbscan_model = HDBSCAN(min_cluster_size=10,  min_samples=5, metric='euclidean', cluster_selection_method='eom', prediction_data=True)
 
 representation_model = KeyBERTInspired()
 
@@ -100,7 +96,8 @@ names = ['janet', 'paul', 'ortiz', 'rosa', 'b', 'williams', 'gwer', 'panel', 'is
 stopwords = list(text.ENGLISH_STOP_WORDS.union(['including', 'interview', 'like', 'rev', 'ms', 'mrs', 'dr', 'sherry',
                                                 'mr', 'sherrod', 'duppree', 'interviewed', 'interview', 'interviewer',
                                                 'AAHP', 'yeah', 'uh', 'huh', 'oh', 'good', 'know', 'said', 'says',
-                                                'asked', 'told', 'program', 'nebo', 'narrator', 'interviewee']).union(names))
+                                                'asked', 'told', 'program', 'nebo', 'narrator', 'interviewee',
+                                                'jerkins', 'lincoln']).union(names))
 vectorizer_model = CountVectorizer(stop_words=stopwords)
 
 #embedding_model = Model2VecBackend("sentence-transformers/all-MiniLM-L6-v2",
@@ -114,23 +111,22 @@ ctfidf_model = ClassTfidfTransformer(
 )
 
 topic_model = (BERTopic(embedding_model=embedding_model, hdbscan_model=hdbscan_model,
-                        vectorizer_model=vectorizer_model, representation_model=representation_model,
-                        ctfidf_model=ctfidf_model, seed_topic_list=candidate_seed_topics,
-                        verbose=True, nr_topics=20))
+                        representation_model=representation_model, ctfidf_model=ctfidf_model,
+                        verbose=True, nr_topics=18))
 topics, probs = topic_model.fit_transform(docs)
 
 hierarchical_topics = topic_model.hierarchical_topics(docs)
-
-
-print(len(topic_model.get_topics()))
-print((topic_model.get_topic(-1)))
-print(topic_model.get_topic_freq(-1))
 
 for t in topic_model.get_topic_info()['Topic']:
     if t == -1:
         continue  # skip outliers
     print(f"Topic {t}:")
-    print(f"    {topic_model.get_topic(t)}")
+    i = 0
+    for word, val in topic_model.get_topic(t):
+        if i > 5:
+            break
+        print(f"    {word}")
+        i += 1
 
 fig = topic_model.visualize_topics()
 heat_map = topic_model.visualize_heatmap()
