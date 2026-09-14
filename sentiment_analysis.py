@@ -4,21 +4,16 @@ sentiment_analysis.py
 Takes the topics found from the saved BERTopic model and creates a sentiment analysis for each sentence in that topic
 Outputs a JSON file directly to an Omeka item through the REST API
 """
-import json
-import requests
+import glob
+import tkinter as tk
 import re
 from collections import defaultdict
-import numpy as np
-from bertopic import BERTopic
 from nltk.tokenize import sent_tokenize
-from sentence_transformers import SentenceTransformer
-from transformers import pipeline
 
 # Information needed for uploading the file to omeka
 BASE_URL = "https://digital.domains.uflib.ufl.edu/omeka/api/media"
 KEY_IDENTITY = "0doJ2KWaVenL4xpDvNo4cTtw72pvaPJb"
 KEY_CREDENTIAL = "Gr53SxNByDtBbAKQQzfXmZPDPe2mN7au"
-ITEM_ID = None
 FILE_PATH = r"C:\Users\truma\Downloads\treemap_data.json"
 FILE_TITLE = "treemap_data.json"
 params = {
@@ -26,12 +21,8 @@ params = {
     "key_credential": KEY_CREDENTIAL
 }
 
-# Load the interview transcript
-INPUT_FILE = "txt/AAHP 173B Cornelius Clayton 9-9-2011ufdc.txt"
 # Load the saved BERTopic model
 MODEL_PATH = "TopicModel/full_docs_model.pkl"
-
-OUTPUT_FILE = "../../Downloads/Topic-Sentiment-Visualization/treemap_data.json"
 
 # Requirements for topics to pass in order to be considered
 # Label score is how closely it relates to one of the predetermined topics
@@ -67,9 +58,6 @@ SENTIMENT_BATCH_SIZE = 32
 # How confident the sentiment model has to be for the sentence to be added
 # Very low because I would rather a sentence get added even if the model is unconfident
 MIN_SENTIMENT_CONFIDENCE = 0.2
-
-# TODO: GRAB CORRECT CODE
-INTERVIEWER_CODES = {"W", "I", "INT", "INTERVIEWER", "Q"}
 
 # Clean transcript, remove any names(of interviewers and interviewees) and stop words/artifacts
 SPEAKER_PATTERN = re.compile(r"^\s*([A-Za-z]{1,20}):\s*(.*)$")
@@ -148,6 +136,59 @@ TOPIC_DESCRIPTIONS = {
 }
 
 
+class Window:
+    def __init__(self):
+        self.window = tk.Tk()
+        self.window.title("Topic And Sentiment Analysis")
+        self.window.lift()
+        self.window.attributes("-topmost", True)
+        self.window.after_idle(self.window.attributes, "-topmost", False)
+
+        main_frame = tk.Frame(self.window)
+        main_frame.grid(column=0, row=0, sticky="nswe", padx=10, pady=10)
+
+        frame_top = tk.Frame(main_frame)
+        frame_top.grid(column=0, row=0, sticky="nswe")
+
+        frame_bot = tk.Frame(main_frame)
+        frame_bot.grid(column=0, row=1, sticky="nswe")
+
+        tk.Label(frame_top, text="Please Enter Omeka Item ID").grid(row=0, column=0)
+
+        self.entry_field = tk.Entry(frame_bot)
+        self.entry_field.grid(row=1, column=1, sticky="nswe")
+
+        tk.Button(frame_bot, height=2, width=20, text="Confirm", command=self.take_input).grid(row=1, column=2,
+                                                                                               sticky="nswe")
+
+        self.window.bind("<Return>", lambda event: self.take_input())
+
+        self.window.update_idletasks()
+        screen_width = self.window.winfo_reqwidth()
+        screen_height = self.window.winfo_reqheight()
+        x = (self.window.winfo_screenwidth() - screen_width) // 2
+        y = (self.window.winfo_screenheight() - screen_height) // 2
+        self.window.geometry(f"{screen_width}x{screen_height}+{x}+{y}")
+        self.window.resizable(False, False)
+
+        self.item_id = None
+
+    def take_input(self):
+        value = self.entry_field.get().strip()
+        if value:
+            self.item_id = value
+            self.window.destroy()
+
+    def on_closing(self):
+        self.item_id = None
+        self.window.destroy()
+
+    def wait_for_input(self):
+        self.window.protocol("WM_DELETE_WINDOW", self.on_closing)
+        self.window.mainloop()
+        return self.item_id
+
+
 # Clean and normalize sentences for comparison and the visualization
 def clean_display_sentence(sentence):
     sentence = LEADING_SPEAKER_PATTERN.sub("", sentence).strip()
@@ -194,6 +235,61 @@ def build_topic_contexts(sentences, turn_ids):
         context = " ".join(nearby) if nearby else sentence
         contexts.append(context)
     return contexts
+
+
+# Load the transcript, seperate speakers because we dont care about the interviewer
+def load_transcript():
+    turns = []
+    current_speaker = None
+    turn_id = -1
+    filelist = glob.glob("Input\\*.txt")
+    for file in filelist:
+        with open(file, "r", encoding="utf-8") as source:
+            for raw_line in source:
+                line = raw_line.rstrip("\n")
+                stripped = line.strip()
+                if not stripped:
+                    continue
+
+                first_word = stripped.split()[0]
+                if first_word in TEXT_SKIPS:
+                    continue
+
+                speaker_match = SPEAKER_PATTERN.match(line)
+                if speaker_match:
+                    current_speaker = speaker_match.group(1).upper()
+                    line = speaker_match.group(2).strip()
+                    turn_id += 1
+                elif current_speaker is None:
+                    continue
+
+                if not line.strip():
+                    continue
+
+                turns.append((current_speaker, line, turn_id))
+
+        if not turns:
+            return [], []
+
+        word_counts = defaultdict(int)
+        for speaker, text, _ in turns:
+            word_counts[speaker] += len(text.split())
+
+        narrator = max(word_counts, key=word_counts.get)
+        print(f"Detected narrator: {narrator}")
+
+        docs = []
+        turn_ids = []
+        for speaker, text, tid in turns:
+            if speaker != narrator:
+                continue
+            for sentence in sent_tokenize(text):
+                sentence = clean_display_sentence(sentence)
+                if sentence:
+                    docs.append(sentence)
+                    turn_ids.append(tid)
+
+    return docs, turn_ids
 
 
 # If there are any sentences that share context in the same topic, combine them into one entry in the visualization
@@ -262,40 +358,15 @@ def score_sentiment(texts, sentiment_pipeline):
 
     return results
 
-def main():
-    # Load the transcript, seperate speakers because we dont care about the interviewer
-    docs = []
-    turn_ids = []
-    current_speaker = None
-    turn_id = -1
+def main(item_id):
+    import json
+    import requests
+    import numpy as np
+    from bertopic import BERTopic
+    from sentence_transformers import SentenceTransformer
+    from transformers import pipeline
 
-    with open(INPUT_FILE, "r", encoding="utf-8") as source:
-        for raw_line in source:
-            line = raw_line.rstrip("\n")
-            stripped = line.strip()
-            if not stripped:
-                continue
-
-            first_word = stripped.split()[0]
-            if first_word in TEXT_SKIPS:
-                continue
-
-            speaker_match = SPEAKER_PATTERN.match(line)
-            if speaker_match:
-                current_speaker = speaker_match.group(1).upper()
-                line = speaker_match.group(2).strip()
-                turn_id += 1
-            elif current_speaker is None:
-                continue
-
-            if current_speaker in INTERVIEWER_CODES or not line.strip():
-                continue
-
-            for sentence in sent_tokenize(line):
-                sentence = clean_display_sentence(sentence)
-                if sentence:
-                    docs.append(sentence)
-                    turn_ids.append(turn_id)
+    docs, turn_ids = load_transcript()
 
     # Contexts for each sentence, it is these sentences that will be fed into the topic and embedding models
     topic_contexts = build_topic_contexts(docs, turn_ids)
@@ -306,7 +377,7 @@ def main():
 
     # Run the embedding model on the sentences (with context)
     context_embeddings = embedding_model.encode(topic_contexts, show_progress_bar=True, convert_to_numpy=True,
-                                                normalize_embeddings=True,)
+                                                normalize_embeddings=True, )
     # Run the topic model on the sentences (with context)
     topics_assigned, probs = topic_model.transform(topic_contexts, embeddings=context_embeddings)
 
@@ -367,7 +438,6 @@ def main():
                 "context": context_passage,
                 "representativeness": representativeness,
             })
-
 
     # Deduplicate and normalize sentences in a topic and rank them by representativeness
     selected_by_label = {}
@@ -459,19 +529,15 @@ def main():
     metadata = {
         "o:ingester": "upload",
         "file_index": 0,
-        "o:item": {"o:id": ITEM_ID},
+        "o:item": {"o:id": item_id},
         "dcterms:title": [{"type": "literal", "property_id": 1, "@value": FILE_TITLE}]
     }
-
     headers = {"User-Agent": "curl/8.4.0"}
-
     with open(FILE_PATH, "rb") as f:
         files = {"file[0]": (FILE_TITLE, f, "application/json")}
         data = {"data": json.dumps(metadata)}
         response = requests.post(BASE_URL, params=params, files=files, data=data, headers=headers)
-
     result = response.json()
-
     if "o:id" in result:
         print(f"✅ Upload successful!")
         print(f"   Media ID : {result['o:id']}")
@@ -482,4 +548,10 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    item_id = Window().wait_for_input()
+    print(f"Got item_id: {item_id!r}")
+    if item_id is None:
+        print("Cancelled.")
+        raise SystemExit(0)
+
+    main(item_id)

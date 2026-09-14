@@ -1,7 +1,7 @@
 """
 corpus_model.py
 
-Trains a BERTopic model on all(currently available as of 09/2026) interview transcripts
+Trains a BERTopic model on all(currently available as of 09/2026) interview Input
 Saves the BERTopic model (with pickle) that the sentiment-analysis pipeline can load directly
 """
 
@@ -35,7 +35,7 @@ TRANSCRIPT_DIR = Path("txt")
 # Where the model should be saved after fitting
 MODEL_PATH = Path("TopicModel/full_docs_model.pkl")
 
-# How many sentences you want to take from the transcripts
+# How many sentences you want to take from the Input
 # There was about ~330000 at the time of fitting, it was only fit on half because of how long it takes
 MAX_SENTENCES = 150000
 # If you are using cuda you cant do more batches (faster work)
