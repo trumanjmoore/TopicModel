@@ -517,14 +517,12 @@ def main(item_id):
                     f"Excerpt name under '{topic.get('name')}' must be a string."
                 )
 
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as destination:
-        json.dump(json_dict, destination, indent=2, ensure_ascii=False)
-
-    print(f"\nSaved to {OUTPUT_FILE}")
     print(
         f"Topics: {len(children)}, Total excerpts: "
         f"{sum(len(topic['children']) for topic in children)}"
     )
+
+    import io
 
     metadata = {
         "o:ingester": "upload",
@@ -532,19 +530,16 @@ def main(item_id):
         "o:item": {"o:id": item_id},
         "dcterms:title": [{"type": "literal", "property_id": 1, "@value": FILE_TITLE}]
     }
+
     headers = {"User-Agent": "curl/8.4.0"}
-    with open(FILE_PATH, "rb") as f:
-        files = {"file[0]": (FILE_TITLE, f, "application/json")}
-        data = {"data": json.dumps(metadata)}
-        response = requests.post(BASE_URL, params=params, files=files, data=data, headers=headers)
-    result = response.json()
-    if "o:id" in result:
-        print(f"✅ Upload successful!")
-        print(f"   Media ID : {result['o:id']}")
-        print(f"   Title    : {result['o:title']}")
-        print(f"   File URL : {result['o:original_url']}")
-    else:
-        print(f"❌ Upload failed: {result}")
+
+    file_bytes = json.dumps(json_dict, indent=2, ensure_ascii=False).encode("utf-8")
+    file_stream = io.BytesIO(file_bytes)
+
+    files = {"file[0]": (FILE_TITLE, file_stream, "application/json")}
+    data = {"data": json.dumps(metadata)}
+    response = requests.post(BASE_URL, params=params, files=files, data=data, headers=headers)
+    print(response)
 
 
 if __name__ == "__main__":
