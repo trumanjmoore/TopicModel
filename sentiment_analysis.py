@@ -14,7 +14,6 @@ from nltk.tokenize import sent_tokenize
 BASE_URL = "https://digital.domains.uflib.ufl.edu/omeka/api/media"
 KEY_IDENTITY = "0doJ2KWaVenL4xpDvNo4cTtw72pvaPJb"
 KEY_CREDENTIAL = "Gr53SxNByDtBbAKQQzfXmZPDPe2mN7au"
-FILE_PATH = r"C:\Users\truma\Downloads\treemap_data.json"
 FILE_TITLE = "treemap_data.json"
 params = {
     "key_identity": KEY_IDENTITY,
